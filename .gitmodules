@@ -1,0 +1,3 @@
+[submodule "external/LoRa_Device"]
+	path = external/LoRa_Device
+	url = https://github.com/dragino/LGT-92_-LoRa_GPS_Tracker.git
